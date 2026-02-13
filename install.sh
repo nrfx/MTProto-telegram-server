@@ -57,7 +57,7 @@ echo "🚀 Запускаю прокси..."
 docker run -d \
     --name mtg \
     --restart always \
-    -p 443:3128 \
+    -p 777:3128 \
     -v /opt/mtg/config.toml:/config.toml:ro \
     nineseconds/mtg:2 run /config.toml >/dev/null
 
@@ -73,7 +73,7 @@ else
 fi
 
 # 8. Формируем ссылку
-LINK="https://t.me/proxy?server=${IP}&port=443&secret=${SECRET}"
+LINK="https://t.me/proxy?server=${IP}&port=777&secret=${SECRET}"
 
 echo ""
 echo "========================================="
