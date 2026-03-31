@@ -15,7 +15,7 @@ ssh root@YOUR_IP_ADDRESS
 ```
 
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/cuk3/MTProto-telegram-server/main/install.sh)
+bash <(curl -sL https://raw.githubusercontent.com/nrfx/MTProto-telegram-server/main/install.sh)
 ```
 
 Готово. Скрипт выдаст ссылку — отправьте её в Telegram и подключитесь.
@@ -79,7 +79,7 @@ ssh root@YOUR_IP_ADDRESS
 ### 2. Запустите скрипт
 
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/cuk3/MTProto-telegram-server/main/install.sh)
+bash <(curl -sL https://raw.githubusercontent.com/nrfx/MTProto-telegram-server/main/install.sh)
 ```
 
 ### 3. Готово
@@ -87,7 +87,7 @@ bash <(curl -sL https://raw.githubusercontent.com/cuk3/MTProto-telegram-server/m
 Скрипт выведет ссылку вида:
 
 ```
-https://t.me/proxy?server=185.21.9.61&port=443&secret=ee9fe4b27de45ee5f794432d4c01004d
+https://t.me/proxy?server=185.21.9.61&port=777&secret=ee9fe4b27de45ee5f794432d4c01004d
 ```
 
 Отправьте её себе в Telegram → нажмите → «Подключить прокси».
@@ -111,7 +111,7 @@ https://t.me/proxy?server=185.21.9.61&port=443&secret=ee9fe4b27de45ee5f794432d4c
 
 📎 Ссылка для подключения:
 
-   https://t.me/proxy?server=185.21.9.61&port=443&secret=ee9fe4b27de45ee5f794432d4c01004d
+   https://t.me/proxy?server=185.21.9.61&port=777&secret=ee9fe4b27de45ee5f794432d4c01004d
 
 Отправьте эту ссылку в Telegram и нажмите
 «Подключить прокси».
@@ -162,7 +162,6 @@ https://t.me/proxy?server=185.21.9.61&port=443&secret=ee9fe4b27de45ee5f794432d4c
 
 Мы используем эту же технологию в нашем боте — **[@ProxyRUSbot](https://t.me/ProxyRUSbot)** — который бесплатно раздаёт MTProto прокси сотням пользователей из России.
 
-Канал проекта: **[@telegaLIFEpls](https://t.me/telegaLIFEpls)**
 
 ---
 
