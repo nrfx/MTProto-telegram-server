@@ -165,22 +165,6 @@ https://t.me/proxy?server=185.21.9.61&port=777&secret=ee9fe4b27de45ee5f794432d4c
 
 ---
 
-## Поддержать проект
-
-Проект бесплатный и живёт на энтузиазме. Если хотите помочь — любой донат пойдёт на оплату серверов и расширение покрытия по всей России.
-
-<a href="https://dalink.to/gdetim"><img src="https://img.shields.io/badge/DonationAlerts-F57B20?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAACKSURBVDhPY/wPBAxUBExQmjqAiYGKgOo2MlIlqBgYGf8DFTMwMjIyNDU1/W9ubv4/efLk/01NTf+BCv8TYSMjMygYgIr/g2xsamr6D7KZGDYRZTMI0N5GUDCQBqgSjGAbMbOACCCIRlRTSDSguI14PUnMIUIqINpGWpka2/N4ePj/zs7O/wHrn0ISFSmmYAAAAABJRU5ErkJggg==&logoColor=white" alt="DonationAlerts" height="36"></a>
-
-**Крипто (USDT):**
-
-| Сеть | Адрес |
-|---|---|
-| TON | `UQBJnm86z1fPPycbWPB1EJmYvM3kSxqGP5Xsj7MGqjhFb_og` |
-| TRC-20 | `TQZ16G4jz44TxTnKkqwbc9GXYx8CR4yTVj` |
-| ERC-20 | `0x64FF8A5eEf5f0F9E3E010FC368FAA278475cF795` |
-| BEP-20 | `0x8763F035C6C57E7Ac2046352e21a71F002f65fe9` |
-
----
 
 <p align="center">
   <sub>Сделано для тех, кто верит что Telegram должен жить.</sub>
